@@ -40,6 +40,7 @@ _Tools for recording, editing, and producing video content._
 - Browser-Based
   - [Clipchamp](https://clipchamp.com/) - Microsoft's browser editor with stock assets and templates.
   - [Kapwing](https://www.kapwing.com/) - Collaborative online editor with AI features.
+  - [OpenCut](https://github.com/OpenCut-app/) - Open-source browser-based editor. Files never leave your machine.
   - [VEED.io](https://www.veed.io/) - Browser-based editor with auto-subtitles, AI avatars, and team collaboration.
 - Screen Recording
   - [Cap](https://github.com/CapSoftware/Cap) - Open-source Loom alternative for recording, editing, and sharing videos. Self-hostable.
@@ -58,6 +59,8 @@ _Design tools for thumbnails, channel art, and social graphics._
 - AI Image Generation
   - [Adobe Firefly](https://www.adobe.com/products/firefly.html) - AI image generator trained on licensed content. Built into Photoshop.
   - [FLUX](https://github.com/black-forest-labs/flux) - Open-weight AI image models from the original Stable Diffusion team. Run locally for free.
+  - [Ideogram](https://ideogram.ai/) - AI image generation that actually renders text correctly. 95%+ spelling accuracy, free tier with 40 images/week.
+  - [Leonardo AI](https://leonardo.ai/) - 150 free tokens daily with commercial rights. Good all-rounder.
   - [Midjourney](https://www.midjourney.com/) - AI image generation with photorealistic output. Many creators use it for thumbnail concepts.
 
 ## Audio & Podcasting
@@ -70,10 +73,12 @@ _Recording, editing, hosting, and distribution for podcasters._
   - [Riverside](https://riverside.fm/) - High-quality remote recording with separate tracks per guest.
   - [Zencastr](https://zencastr.com/) - Remote podcast recording with free tier.
 - Hosting & Distribution
-  - [Anchor](https://anchor.fm/) - Free hosting and distribution by Spotify.
+  - [Castopod](https://castopod.org/) - Open-source podcast hosting with Fediverse integration and built-in monetization.
   - [Audiobookshelf](https://github.com/advplyr/audiobookshelf) - Self-host your podcast and audiobook library.
   - [Buzzsprout](https://www.buzzsprout.com/) - Beginner-friendly hosting with AI mastering and auto-generated show notes.
   - [Podcastfy](https://github.com/souzatharsis/podcastfy) - Generate podcasts from text using AI.
+  - [RedCircle](https://redcircle.com/) - Free hosting with donations and subscriptions built into the free plan.
+  - [Spotify for Creators](https://podcasters.spotify.com/) - Free unlimited hosting. Monetization at 1,000 engaged listeners.
   - [Transistor.fm](https://transistor.fm/) - Podcast hosting with unlimited shows and private podcasting support.
 - Music & Sound Effects
   - [Epidemic Sound](https://www.epidemicsound.com/) - Royalty-free music and sound effects with direct licensing for creators.
@@ -90,6 +95,7 @@ _Recording, editing, hosting, and distribution for podcasters._
 _Software and tools for Twitch, YouTube Live, and other platforms._
 
 - Streaming Software
+  - [Meld Studio](https://meldstudio.co/) - Free streaming software with built-in alerts, chat overlay, and multi-streaming. No plugins needed.
   - [OBS Studio](https://obsproject.com/) - The standard for streaming. Open-source, extensible, free.
   - [Owncast](https://github.com/owncast/owncast) - Self-hosted live streaming server with built-in chat and Fediverse integration.
   - [Streamlabs](https://streamlabs.com/) - OBS fork with built-in alerts, overlays, and themes.
@@ -110,10 +116,10 @@ _Schedule, publish, and manage content across platforms._
   - [Later](https://later.com/) - Visual planner, strong on Instagram.
   - [Loomly](https://loomly.com/) - Content planning, scheduling, and analytics with team collaboration.
   - [Metricool](https://metricool.com/) - Scheduling, analytics, and ad management across all major platforms. Free tier.
-  - [Postiz](https://github.com/gitroomhq/postiz-app) - Open-source alternative to Buffer.
+  - [Mixpost](https://github.com/inovector/mixpost) - Self-hosted social media management. No limits, no subscriptions, you own your data.
+  - [Postiz](https://github.com/gitroomhq/postiz-app) - Open-source social media tool with 20+ integrations, built-in design editor, and AI content generation.
 - Cross-Posting
   - [Repurpose.io](https://repurpose.io/) - Automatically publish to multiple platforms from one upload.
-  - [TikToka Studio Uploader](https://github.com/nicholasdly/tiktoka-studio-uploader) - Bulk upload to TikTok.
 
 ## Analytics & Insights
 
@@ -138,12 +144,16 @@ _Turn your audience into income._
   - [Ko-fi](https://ko-fi.com/) - Tips, memberships, and a simple shop.
   - [Patreon](https://www.patreon.com/) - The original membership platform for recurring fan support and exclusive content.
 - Courses & Products
+  - [CourseLit](https://github.com/codelitdev/courselit) - Open-source course platform with Stripe payments. Self-hosted Teachable alternative.
   - [Fourthwall](https://fourthwall.com/) - Merch, storefronts, and memberships. Used by MKBHD and other top creators.
   - [Kajabi](https://www.kajabi.com/) - All-in-one for courses, coaching, memberships, and newsletters.
   - [Lemon Squeezy](https://www.lemonsqueezy.com/) - Payments and tax handling for digital products across 135+ countries.
+  - [Payhip](https://payhip.com/) - Free plan with every feature unlocked. Sell digital products, courses, and memberships.
   - [Teachable](https://teachable.com/) - Course platform for selling online classes, coaching, and downloads.
+  - [Thinkific](https://www.thinkific.com/) - The only major course platform with a real free plan. No transaction fees.
   - [Whop](https://www.whop.com/) - Marketplace for digital products, courses, coaching, and memberships.
 - Sponsorships
+  - [Collabstr](https://collabstr.com/) - Creator marketplace with 330K+ brands. Free to list, 10% fee per deal.
   - [Passionfruit](https://passionfroot.me/) - Manage sponsor inquiries and bookings.
   - [SponsorKit](https://github.com/antfu/sponsorkit) - Generate sponsor images for your README or website.
 
@@ -154,7 +164,7 @@ _Landing pages for your social profiles._
 - [Dub](https://github.com/dubinc/dub) - Open-source link management with analytics and conversion tracking.
 - [LinkStack](https://github.com/linkstackorg/linkstack) - Self-hosted link-in-bio with admin panel, themes, and multi-user support.
 - [Linktree](https://linktr.ee/) - The original. Free tier available.
-- [OneLink](https://github.com/nicholasdly/onelink) - Open-source link in bio.
+- [LittleLink](https://github.com/techno-tim/littlelink-server) - Lightweight open-source link page. Docker-ready, 100+ branded buttons.
 - [OpenBio](https://github.com/vanxh/openbio) - Another open-source option.
 
 ## Newsletter & Email
@@ -176,26 +186,29 @@ _Build an audience you own._
 _Automate parts of your workflow with AI._
 
 - Video
-  - [AI-Shorts-Creator](https://github.com/nicholasdly/AI-Shorts-Creator) - Generate short-form content automatically.
   - [HeyGen](https://www.heygen.com/) - AI avatar videos and video translation with lip-sync dubbing.
-  - [Kling AI](https://klingai.com/) - Text-to-video with camera movement control, lip sync, and motion effects.
+  - [Kling AI](https://klingai.com/) - Text-to-video with camera movement control, lip sync, and motion effects. Most generous free tier (66 daily credits).
+  - [Opus Clip](https://www.opus.pro/) - Turns long videos into short clips with AI highlight detection and virality scoring. 60 min/month free.
   - [Pika](https://pika.art/) - AI video generation with expression sync and audio-reactive animation.
   - [Runway](https://runwayml.com/) - Text-to-video and image-to-video generation. Used in professional film production.
   - [VideoLingo](https://github.com/Huanshere/VideoLingo) - AI translation and dubbing for videos.
+  - [Wan](https://github.com/Wan-Video) - Open-source video generation (Apache 2.0). Text-to-video, image-to-video, even speech-to-video for digital humans.
 - Voice
-  - [ElevenLabs](https://elevenlabs.io/) - AI voice generation and cloning.
+  - [Chatterbox](https://github.com/resemble-ai/chatterbox) - Open-source TTS that outperforms ElevenLabs in blind tests. Voice cloning from 5 seconds of audio, emotion control. MIT license.
+  - [ElevenLabs](https://elevenlabs.io/) - AI voice generation and cloning. The quality benchmark.
   - [Fish Speech](https://github.com/fishaudio/fish-speech) - Text-to-speech with emotion control and voice cloning from short audio samples.
   - [GPT-SoVITS](https://github.com/RVC-Boss/GPT-SoVITS) - Open-source voice cloning from just 5 seconds of audio. Supports cross-lingual inference.
+  - [OpenVoice](https://github.com/myshell-ai/OpenVoice) - Instant voice cloning with granular control over style, emotion, and accent. MIT license.
   - [Whisper](https://github.com/openai/whisper) - OpenAI's speech-to-text. Runs locally, very accurate.
 - Music
   - [ACE-Step](https://github.com/ACE-Step/ACE-Step) - Open-source music generation model. Fast, multilingual, supports lyrics and voice cloning.
-  - [Suno](https://suno.com/) - Generate full songs with vocals from a text prompt. No musical skill needed.
+  - [Suno](https://suno.com/) - Generate full songs with vocals from a text prompt. 50 free credits daily.
+  - [Udio](https://udio.com/) - AI music generation with an experimental, playful style. Free tier available.
 - Captions
   - [Stable-ts](https://github.com/jianfch/stable-ts) - Improved Whisper timestamps for accurate subtitles. Exports SRT, VTT, and ASS.
+  - [Subtitle Edit](https://github.com/SubtitleEdit/subtitleedit) - Open-source subtitle editor with built-in Whisper. Runs locally, 99 languages, unlimited.
 - Image & Workflows
   - [ComfyUI](https://github.com/comfyanonymous/ComfyUI) - Node-based workflow editor for AI image and video generation. Supports Flux, Stable Diffusion, and video models.
-- Writing
-  - [Writing Helper](https://github.com/nicholasdly/writing-helper) - AI writing assistant.
 
 ## Community & Engagement
 
@@ -206,6 +219,7 @@ _Build and manage your community._
 - [Discourse](https://github.com/discourse/discourse) - Open-source forum platform. Powers communities for Rust, Docker, Figma, and thousands more.
 - [Discord](https://discord.com/) - Free servers for community chat.
 - [Forem](https://github.com/forem/forem) - Open-source platform for building dev.to-style communities.
+- [Geneva](https://geneva.com/) - Free community platform with chat, audio/video rooms, and events. A polished Discord alternative for non-gaming communities.
 - [Mighty Networks](https://www.mightynetworks.com/) - Build branded community apps.
 - [Skool](https://www.skool.com/) - Community platform with courses and gamification. Flat pricing, no per-member fees.
 
