@@ -42,6 +42,7 @@ _Tools for recording, editing, and producing video content._
   - [Kapwing](https://www.kapwing.com/) - Collaborative online editor with AI features.
   - [OpenCut](https://github.com/OpenCut-app/) - Open-source browser-based editor. Files never leave your machine.
   - [VEED.io](https://www.veed.io/) - Browser-based editor with auto-subtitles, AI avatars, and team collaboration.
+  - [PVID](http://pvid.app/) - Free AI video generator with Kling 3.0, Sora 2, Veo 3.1. Image-to-video, text-to-video with 100 free credits.
 - Screen Recording
   - [Cap](https://github.com/CapSoftware/Cap) - Open-source Loom alternative for recording, editing, and sharing videos. Self-hostable.
 
